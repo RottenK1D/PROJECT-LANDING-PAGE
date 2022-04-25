@@ -3,7 +3,20 @@ body{
     display: flex;
     flex-direction: column;
 }
+header{
+    display: flex;
+    justify-content: space-between;
 
+}
+.nav-bar{
+    list-style: none;
+    display: flex;
+   
+}
+
+li{
+    text-decoration: none;
+}
 .top-container{
     color: #6f5a62;
     background-color: #fee1bd;
