@@ -6,8 +6,6 @@ Demonstrate so far learned HMTL and CSS knowledge
 
 Document HTML
 
-4 sections: 
-
 First web section: 
 
 Logo - text , can be image
