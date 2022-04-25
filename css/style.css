@@ -1,0 +1,11 @@
+body{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.top-container{
+    color: #6f5a62;
+    background-color: #fee1bd;
+    display: flex;
+}
