@@ -4,6 +4,7 @@ body{
     flex-direction: column;
 }
 header{
+    background-color: #fee1bd;
     display: flex;
     justify-content: space-between;
 
