@@ -11,7 +11,7 @@ Document HTML
 First web section: 
 
 Logo - text , can be image
-Links - to other parts of web
+Links - navigate webpage sections
 Header - representing web 
 Text - some information about us
 Image - placeholder for future images
