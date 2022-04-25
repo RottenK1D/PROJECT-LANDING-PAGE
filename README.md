@@ -12,8 +12,8 @@ First web section:
 
 Logo - text , can be image
 Links - navigate webpage sections
-Header - representing web 
-Text - some information about us
-Image - placeholder for future images
+Header - main title
+Text - under main title, some information about website
+Image - placeholder for images
 
 Second web section:
