@@ -15,8 +15,12 @@ Image - add some cool art
 
 Middle section:
 
+Images/Illustration - add 4 boxes for images
+Text - add text under 4 boxes of images
+This content follows right under top section and serves as random information
+
 
 
 🅳🅾🅲🆄🅼🅴🅽🆃 🅲🆂🆂
 
-Style first web section elements
+Add values and style top section elements
