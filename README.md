@@ -24,3 +24,4 @@ This content follows right under top section and serves as random information
 🅳🅾🅲🆄🅼🅴🅽🆃 🅲🆂🆂
 
 Add values and style top section elements
+Add values and style mid section elements
