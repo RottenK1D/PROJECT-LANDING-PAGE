@@ -55,3 +55,11 @@ li{
     justify-content: center;
 }
 
+.mid-container{
+    display: flex;
+}
+
+.illustration{
+    width: 300px;
+    height: 300px;
+}
