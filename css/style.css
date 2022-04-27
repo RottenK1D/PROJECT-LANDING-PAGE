@@ -1,18 +1,42 @@
 body{
-
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 header{
     background-color: #fee1bd;
+    color: #4f3039;
+    font-size: 20px;
+    font-weight: 600;
     display: flex;
     justify-content: space-between;
+    padding: 0 20px 0 20px;
+}
 
+img {
+    width: 600px;
+    height: auto;
 }
 .nav-bar{
     list-style: none;
     display: flex;
-   
+    gap: 30px;
+}
+
+.main-text{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.sub-text{
+    font-size: 18px;
+    font-family: Hero Secondary text, Header Link Text;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
 }
 
 li{
@@ -22,4 +46,7 @@ li{
     color: #6f5a62;
     background-color: #fee1bd;
     display: flex;
+    padding: 100px;
+
 }
+
