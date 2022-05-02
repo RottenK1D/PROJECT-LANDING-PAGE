@@ -23,7 +23,12 @@ Quote section
 
 Text - allocate space for customer testimonials or add random quotes
 
+Sign-up action section:
+Add sign-up box for customer to sign up for news,ad's,updates etc.
+
 🅳🅾🅲🆄🅼🅴🅽🆃 🅲🆂🆂
 
 Add values and style top section elements
 Add values and style mid section elements
+Add values and style testimonial/quotes section elements
+
