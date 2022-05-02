@@ -51,21 +51,23 @@ li{
     color: #4f3039;
     background-color: #fee1bd;
     display: flex;
-    padding: 80px;
     justify-content: center;
     height: 500px;
 }
 
 .mid-container{
     background-color: #fef2dc;
-    display: flex;
     height: 500px;
+    display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .image-container{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
 }
 
 .images{
@@ -74,7 +76,14 @@ li{
     align-items: center;
     margin: 20px;
     padding: 20px;
+    flex: 0;
+    gap: 10px;
     
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
 }
 
 .illustration{
@@ -91,4 +100,30 @@ li{
     margin: 0;
     padding: 20px;
     color: #4f3039;
+}
+
+.quote-container{
+    background-color: #fedcd6;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 26px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    padding: 100px 200px 0 200px;
+}
+
+.quote-author{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 100px;
+    padding-right: 200px;
 }
