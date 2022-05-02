@@ -178,3 +178,17 @@ button{
 .alert-msg{
     font-size: 25px;
 }
+
+footer{
+    background-color: #fee1bd;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyright{
+    color: #6f5a62;
+    font-size: 15px;
+    font-weight: 400;
+}
